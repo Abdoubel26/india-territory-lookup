@@ -1,6 +1,6 @@
 {
   "name": "india-territory-lookup",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple lookup for India territory information",
   "main": "index.ts",
   "scripts": {
