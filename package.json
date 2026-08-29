@@ -1,16 +1,16 @@
 {
-  "name": "us-state-lookup",
+  "name": "india-territory-lookup",
   "version": "1.0.0",
-  "description": "A simple lookup for US state information",
+  "description": "A simple lookup for India territory information",
   "main": "index.js",
   "scripts": {
     "start": "node --experimental-strip-types index.ts"
   },
   "keywords": [
-    "us-states",
-    "fips",
+    "india-territories",
+    "india-territory-lookup",
     "postal-codes",
-    "states",
+    "territories",
     "lookup"
   ],
   "author": "Abdou Belounis",
